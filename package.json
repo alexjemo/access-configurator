@@ -37,3 +37,7 @@
     ]
   }
 }
+"homepage": "https://alexjemo.github.io/access-configurator",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+
